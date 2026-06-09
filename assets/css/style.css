@@ -30,7 +30,7 @@ a:hover {
 .container {
   max-width: 900px;
   margin: 0 auto;
-  padding: 0 2rem;
+  padding: 0 2rem 0 1.5rem;
 }
 
 /* === Navigation === */
@@ -95,7 +95,7 @@ nav .container {
 /* === Bio Section === */
 .bio-grid {
   display: grid;
-  grid-template-columns: 220px 1fr;
+  grid-template-columns: 286px 1fr;
   gap: 2.5rem;
   align-items: start;
 }
@@ -306,7 +306,7 @@ footer .container {
   }
 
   .bio-photo {
-    max-width: 180px;
+    max-width: 234px;
     display: block;
     margin: 0 auto;
   }
