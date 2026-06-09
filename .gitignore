@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+dolgozik/
+.csapat/
+.claude/
+docs/
+.env
+.env.*
+*.rtf
