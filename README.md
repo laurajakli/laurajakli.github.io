@@ -1,7 +1,5 @@
 # laurajakli.github.io
 
-Personal academic website for Laura Jakli, Assistant Professor at Harvard Business School (BGIE unit). Built as a static site of plain HTML and CSS and served via GitHub Pages.
-
 ## Structure
 
 - `index.html` — Home / bio
@@ -15,7 +13,7 @@ Personal academic website for Laura Jakli, Assistant Professor at Harvard Busine
 The site is static, so any local web server works. From the repo root:
 
 ```bash
-python3 -m http.server 8080 --directory /Users/ljakli/Playspace/laurajakli.github.io
+python3 -m http.server 8080
 ```
 
 Then open <http://localhost:8080> in your browser. Edit the HTML/CSS files and refresh the page to see your changes.
