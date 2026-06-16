@@ -229,7 +229,7 @@ footer .container {
 /* === CV Page === */
 .cv-download {
   display: inline-block;
-  margin-bottom: 0.6rem;
+  margin-bottom: 2rem;
   padding: 0.6rem 1.4rem;
   border: 1px solid #1a3a5c;
   color: #1a3a5c;
@@ -242,12 +242,6 @@ footer .container {
   background: #1a3a5c;
   color: #fff;
   text-decoration: none;
-}
-
-.cv-note {
-  margin: 0 0 2rem;
-  font-size: 0.85rem;
-  color: #666;
 }
 
 /* === Contact === */
